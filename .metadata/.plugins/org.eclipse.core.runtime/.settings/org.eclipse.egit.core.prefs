@@ -1,3 +1,3 @@
-GitRepositoriesView.GitDirectories=/home/gokilavanichand/git/docker-jenkin-integration/.git\:
-GitRepositoriesView.GitDirectories.relative=/home/gokilavanichand/git/docker-jenkin-integration/.git\:
+GitRepositoriesView.GitDirectories=/home/gokilavanichand/eclipse-workspace/.git\:/home/gokilavanichand/git/AchistarDevop/.git\:/home/gokilavanichand/git/docker-jenkin-integration/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:/home/gokilavanichand/git/AchistarDevop/.git\:/home/gokilavanichand/git/docker-jenkin-integration/.git\:
 eclipse.preferences.version=1

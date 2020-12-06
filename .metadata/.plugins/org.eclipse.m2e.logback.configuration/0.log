@@ -407,3 +407,10 @@
 2020-12-05 12:57:58,549 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dockjenpipe/src/test/java
 2020-12-05 12:57:58,649 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
 2020-12-05 13:10:15,097 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 00:15:53,006 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-06 13:43:48,003 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 13:50:44,024 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.archistar.devops:AchistarDevop:0.0.1-SNAPSHOT @ /home/gokilavanichand/eclipse-workspace/AchistarDevop/pom.xml.
+2020-12-06 13:50:44,627 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AchistarDevop/src/main/java
+2020-12-06 13:50:44,629 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AchistarDevop/src/main/resources
+2020-12-06 13:50:44,637 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AchistarDevop/src/test/java
+2020-12-06 13:50:44,638 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AchistarDevop/src/test/resources
